@@ -14,7 +14,7 @@ class Triangle
     else
       if a == b && b == c
         :equilateral
-        elsif 
+        elsif a == b||b == c|| a == c
       
       
       
