@@ -6,6 +6,8 @@ class Triangle
     @c = c
   end
   
+  def kind
+  
   
 
 
